@@ -1,4 +1,4 @@
-# jukebox23
-Get a team of two with a shared remote repo on GitHub.
-
+# Jukebox 23
 Contributors: Kade Dean and Danilo Malo-Molina
+
+The user can create an account and then create a queue of songs. The songs will be saved until they are played.
